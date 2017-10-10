@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MiLogLlamadas</string>
+    <string name="llamadas">Llamadas</string>
+    <string name="mostrar_llamadas">Mostrar Log Llamadas</string>
+    <string name="entrada">Llamada de Entrada</string>
+    <string name="salida">Llamada de Salida</string>
+    <string name="perdida">Llamada Perdida</string>
+    <string name="desconocida">Llamada Desconocida</string>
+</resources>
